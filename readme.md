@@ -14,7 +14,8 @@ the following processes
 * create tournament calendar - not implemented yet; 
 * chess playing platform e.g. lichess.org, chess.com chess24.com etc.; 
 #### Creating groups based on fide or national rating 
-#### Scheduling game by creating a Google calendar event for the two players combinded with Google meet 
-* Editing the google event texts with instructions to start game and a link to a form to submit  game result to the organizer; 
-* Automatic processing of submitted results - not yet implemented.
+#### Scheduling game by creating a Google calendar event for the two players combined with Google meet 
+* Editing the google event texts with instructions to start game and a link to a form to submit game result to the organizer; 
+* Automatic processing of submitted results - not yet implemented;
+* Display of standings including  game results and link to game on choosen platform; 
 
